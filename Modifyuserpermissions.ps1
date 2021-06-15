@@ -1,0 +1,1 @@
+Set-SPUser -Web http://sps2013-1/ -Identity "i:0#.w|contoso\johndoe" -Group "Approvers" -AddPermissionLevel "Full Control"
